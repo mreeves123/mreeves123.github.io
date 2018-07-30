@@ -8,6 +8,8 @@ I recently graduated with my Bachelor's of Science in Mathematics from [Azusa Pa
 
 My love of Bison all started when I visited [Custer State Park](https://gfp.sd.gov/parks/detail/custer-state-park/), located in South Dakota.
 
+![Image](American_bison_k5680-1.jpg)
+
 ```markdown
 Syntax highlighted code block
 
