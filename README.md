@@ -34,6 +34,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 In case you don't already know, I'm kind of obsessed with the color green. Just so you have a reference, I've added a picture below that displays my favorite hue. 
 
+![Image](bumpy-forest-green-plastic-texture.jpg)
+
 ### Mountains
 
 
