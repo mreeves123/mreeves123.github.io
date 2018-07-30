@@ -28,4 +28,4 @@ In case you don't already know, I'm kind of obsessed with the color green. Just 
 
 Here's a nice picture of the mountains for your viewing eye. Personally, I'd rather be hammocking here than back in the city. I suppose that's what vacation time is for! 
 
-![Image](green mountains.jpg)
+![Image](greenmountains.jpg)
