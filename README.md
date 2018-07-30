@@ -1,16 +1,12 @@
 ## Welcome to my Site
 
 This is a page to show you some stuff.
-I recently graduated with my Bachelor's of Science in Mathematics from [Azusa Pacific University](https://www.apu.edu/). 
+I recently graduated with my Bachelor's of Science in Mathematics from [Azusa Pacific University](https://www.apu.edu/). I love the outdoors, reading, 
 
-You can use the [editor on GitHub](https://github.com/mreeves123/mreeves123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Here's some cool information about Bison and how they are 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Love of Bison
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My love of Bison all started when I visited [Custer State Park](https://gfp.sd.gov/parks/detail/custer-state-park/), located in South Dakota.
 
 ```markdown
 Syntax highlighted code block
