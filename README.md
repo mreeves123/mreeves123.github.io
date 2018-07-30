@@ -18,26 +18,6 @@ Top reasons bison are my favorite animal:
 3. Baby bison are the cutest
 4. I'd like to ride one off into the sunset as my noble steed 
 
-//```markdown
-//Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-///```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Dark Green
 
 In case you don't already know, I'm kind of obsessed with the color green. Just so you have a reference, I've added a picture below that displays my favorite hue. 
@@ -45,5 +25,7 @@ In case you don't already know, I'm kind of obsessed with the color green. Just 
 ![Image](bumpy-forest-green-plastic-texture.jpg)
 
 ### Mountains
+
+Here's a nice picture of the mountains for your viewing eye. Personally, I'd rather be hammocking here than back in the city. I suppose that's what vacation time is for! 
 
 
