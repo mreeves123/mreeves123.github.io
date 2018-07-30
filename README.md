@@ -18,8 +18,8 @@ Top reasons bison are my favorite animal:
 3. Baby bison are the cutest
 4. I'd like to ride one off into the sunset as my noble steed 
 
-```markdown
-Syntax highlighted code block
+//```markdown
+//Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -34,7 +34,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+///```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
