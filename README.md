@@ -13,7 +13,7 @@ My love of Bison all started when I visited [Custer State Park](https://gfp.sd.g
 I find them to be one of the world's most fascinating creatures. Previously freely roaming the wild plains of North America, bison were killed in such great numbers that they can now only be found in national parks or residing closely outside of them. 
 
 Top reasons bison are my favorite animal: 
-1. They're majestic AF
+1. They're majestic
 2. They are community-oriented animals (they travel in herds)
 3. Baby bison are the cutest
 4. I'd like to ride one off into the sunset as my noble steed 
